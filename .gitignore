@@ -3,6 +3,7 @@
 gesture*/
 ssd_mobilenet_v1_coco_11_06_2017/
 research/object_detection/protos/*.py
+research/object_detection/test_ckpt/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
